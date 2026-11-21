@@ -3,4 +3,4 @@
 Beginner and basic Java projects built for practice and core concept clarity.
 
 ## Projects
-- [Number Guessing Game](./NumberGuessingGame)
+1- [Number Guessing Game](./NumberGuessingGame)
